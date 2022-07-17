@@ -1,6 +1,6 @@
 # woool
 
-Minimum Wake-on-Lan for my zig study.
+Minimum Wake-on-Lan for my Zig study.
 
 # How to build
 
